@@ -24,7 +24,7 @@
 
 ### Распознавание контента в видео
 
-- `generalization.ipynb`: Выявление содержимого видео.
+- `generalization.ipynb`: Исправление ошибок ввода.
 
 ### Spellchecker
 
@@ -38,7 +38,7 @@
 
 ### .py
 
-- spch.py - Алгоритмически реализованный spellcheker
+- spch.py - Алгоритмически реализованный spellcheker.
 
 ---
 
