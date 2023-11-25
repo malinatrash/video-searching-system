@@ -4,13 +4,17 @@
 
 ## Описание репозитория:
 
+### Иерархия
+
+```
 .
 ├── README.md
 ├── generalization.ipynb
 └── spellchecker
-├── ru.json
-├── ru.json.gz
-└── spch.py
+    ├── ru.json
+    ├── ru.json.gz
+    └── spch.py
+```
 
 2 directories, 5 files
 
